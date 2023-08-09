@@ -12,5 +12,6 @@ Script for Illsutrator to display color information of selected text and paths a
 ## How to use
 テキスト、パスを選択した状態で、スクリプトを実行してください。
 CMYK, RGBに対応しています。
+
 Run the script with text and path selected.
 CMYK and RGB are supported.
